@@ -1,5 +1,5 @@
 # Samsang_bar_plus_test
-# 测试环境: Windows 7, USB3.0
+# 测试环境: Windows 7, USB3.0, NTFS快速格式化
 
 ## 芯片检测
 <img src="Samsung-bar-plus-chip-genius.png" />
