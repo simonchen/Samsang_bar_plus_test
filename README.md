@@ -1,5 +1,10 @@
 # Samsang_bar_plus_test
-# 测试环境: Windows 7, USB3.0(用扩展卡转接的[DIEWU PCI-E转usb3.0扩展卡]), NTFS快速格式化
+# 测试环境: 
+
+Windows 7, 
+USB3.0用扩展卡转接 https://detail.tmall.com/item.htm?id=559052909460&spm=a1z09.2.0.0.23062e8dSZAI65&_u=h9ipku5bb0f&skuId=3754028516902
+DIEWU PCI-E转usb3.0扩展卡 
+NTFS快速格式化
 
 ## 芯片检测
 实际是单通道.
