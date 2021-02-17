@@ -1,5 +1,5 @@
 # Samsang_bar_plus_test
-# 测试环境: Windows 7, USB3.0, NTFS快速格式化
+# 测试环境: Windows 7, USB3.0(用扩展卡转接的[DIEWU PCI-E转usb3.0扩展卡]), NTFS快速格式化
 
 ## 芯片检测
 实际是单通道.
