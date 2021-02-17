@@ -14,6 +14,8 @@ https://bbs.luobotou.org/thread-47543-1-1.html
 
 比较固态硬盘，是真没法比的，但是4K读写确实不错。
 
-## 单个大文件写入测试(2.7GB)
+## 单个大文件写入/拷贝测试(2.7GB)
 <img src="Samsung-bar-plus-single-file.png" />
 写入快到结束时，停了10几秒，应该是缓存数据了。
+<img src="Samsung-bar-plus-single-file-copy.png" />
+很流畅，无卡顿，结尾没有任何停顿。
