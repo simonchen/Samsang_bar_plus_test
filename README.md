@@ -1,6 +1,11 @@
 # Samsang_bar_plus_test
 # 测试环境: Windows 7, USB3.0
 
+## 芯片检测
+<img src="Samsung-bar-plus-chip-genius.png" />
+实际是单通道.
+https://bbs.luobotou.org/thread-47543-1-1.html
+
 ## Samsung Bar+ 128G U盘测速
 <img src="ASSSD-Samsung.png" />
 
