@@ -11,3 +11,4 @@
 
 ## 单个大文件写入测试(2.7GB)
 <img src="Samsung-bar-plus-single-file.png" />
+写入快到结束时，停了10几秒，应该是缓存数据了。
