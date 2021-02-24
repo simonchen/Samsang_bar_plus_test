@@ -12,15 +12,17 @@ https://bbs.luobotou.org/thread-47543-1-1.html
 <img src="Samsung-bar-plus-chip-genius.png" />
 
 ## Samsung Bar+ 128G U盘测速
+有意思的是原生USB3.0接口的4k写入速度居然不及 PCI-E转接USB3.0接口，
+比较固态硬盘，写入速度是真没法比的，但是当时就是看中这款u盘的4K速度甚至比闪迪的cz880还要好。
+
 ### PCI-E转接USB3.0性能测试
 <img src="ASSSD-Samsung.png" />
+
 ### 原生USB3.0性能测试
 <img src="ASSSD-Samsung-Native.png" />
 
 ## Sandisk 256G 固态硬盘测速
 <img src="as-ssd-bench SanDisk SDSSDH32 2018.6.9 0-02-05.png" />
-
-比较固态硬盘，是真没法比的，但是4K读写确实不错。
 
 ## 单个大文件写入/拷贝测试(2.7GB)
 写入快到结束时，停了10几秒，应该是缓存数据了。
