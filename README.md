@@ -36,7 +36,10 @@ https://bbs.luobotou.org/thread-47543-1-1.html
 # 原生USB3.0接口单个大文件写入/拷贝测试
 
 ### 3.6GB 单个文件写入
+<img src="Samsung-write-native.png" />
+
+### 10GB 单个文件读取（到高速7200转机械硬盘）
 <img src="Samsung-read-native.png" />
 
-### 10GB 单个文件写入
-<img src="Samsung-write-native.png" />
+### 10GB 单个文件读取（到SSD固态硬盘）
+<img src="Samsung-read-native-ssd.png" />
