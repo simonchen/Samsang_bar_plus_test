@@ -12,7 +12,10 @@ https://bbs.luobotou.org/thread-47543-1-1.html
 <img src="Samsung-bar-plus-chip-genius.png" />
 
 ## Samsung Bar+ 128G U盘测速
+### PCI-E转接USB3.0性能测试
 <img src="ASSSD-Samsung.png" />
+### 原生USB3.0性能测试
+<img src="ASSSD-Samsung-Native.png" />
 
 ## Sandisk 256G 固态硬盘测速
 <img src="as-ssd-bench SanDisk SDSSDH32 2018.6.9 0-02-05.png" />
