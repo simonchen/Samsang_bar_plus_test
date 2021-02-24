@@ -24,11 +24,11 @@ https://bbs.luobotou.org/thread-47543-1-1.html
 ## Sandisk 256G 固态硬盘测速
 <img src="as-ssd-bench SanDisk SDSSDH32 2018.6.9 0-02-05.png" />
 
-## 单个大文件写入/拷贝测试(2.7GB)
+## PCI-E转接USB3.0单个大文件写入/拷贝测试(2.7GB)
 写入快到结束时，停了10几秒，应该是缓存数据了。
 
 <img src="Samsung-bar-plus-single-file.png" />
 
-很流畅，无卡顿，结尾没有任何停顿。
+读数据很流畅，无卡顿，结尾没有任何停顿。
 
 <img src="Samsung-bar-plus-single-file-copy.png" />
