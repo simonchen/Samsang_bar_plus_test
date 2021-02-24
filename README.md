@@ -32,3 +32,11 @@ https://bbs.luobotou.org/thread-47543-1-1.html
 读数据很流畅，无卡顿，结尾没有任何停顿。
 
 <img src="Samsung-bar-plus-single-file-copy.png" />
+
+# 原生USB3.0接口单个大文件写入/拷贝测试
+
+### 3.6GB 单个文件写入
+
+
+### 10GB 单个文件写入
+
