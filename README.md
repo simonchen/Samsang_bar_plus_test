@@ -42,4 +42,4 @@ https://bbs.luobotou.org/thread-47543-1-1.html
 <img src="Samsung-read-native.png" />
 
 ### 10GB 单个文件读取（到SSD固态硬盘）
-<img src="Samsung-read-native-ssd.png" />
+<img src="as-ssd-bench SanDisk SDSSDH32 2018.6.9 0-02-05.png" />
